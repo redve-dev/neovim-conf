@@ -1,0 +1,4 @@
+plugin/packer_compiled.lua
+lazy-lock.json
+statuscol_conf.lua
+lua/plugins/presence.lua
